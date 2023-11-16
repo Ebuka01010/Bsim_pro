@@ -8,7 +8,7 @@ This is a comprehensive account management system developed over a 1-month solo 
 **Account Management**: Manage and sort various account types and transactions.\
 **Transaction Handling**: Process and validate different transaction types.\
 **Account Types**: Supports various account types including Checking, Savings, Deposit, and Loan accounts.\
-**Calculation and Reporting**: Perform complex calculations and generate reports.\
+**Calculation and Reporting**: Perform complex calculations and generate reports.
 
 
 ## Classes and Methods
@@ -22,7 +22,7 @@ This is a comprehensive account management system developed over a 1-month solo 
 ## Requirements
 
 C++ Compiler (e.g., GCC, Clang)\
-CMake (for build configuration)\
+CMake (for build configuration)
 
 
 ## Building the Project
@@ -32,7 +32,7 @@ cd untitled3\
 mkdir build && cd build\
 cmake ..\
 make\
-./untitled3\
+./untitled3
 
 
 ## Contributing
