@@ -5,34 +5,34 @@ This is a comprehensive account management system developed over a 1-month solo 
 
 ## Features
 
-**Account Management**: Manage and sort various account types and transactions.
-**Transaction Handling**: Process and validate different transaction types.
-**Account Types**: Supports various account types including Checking, Savings, Deposit, and Loan accounts.
-**Calculation and Reporting**: Perform complex calculations and generate reports.
+**Account Management**: Manage and sort various account types and transactions.\
+**Transaction Handling**: Process and validate different transaction types.\
+**Account Types**: Supports various account types including Checking, Savings, Deposit, and Loan accounts.\
+**Calculation and Reporting**: Perform complex calculations and generate reports.\
 
 
 ## Classes and Methods
 
-**Transaction**: Handles individual transactions.
-**BankAccount**: Base class for bank accounts.
-**DepositAccount**: Derived class for deposit accounts.
-**LoanAccount**: Derived class for loan accounts.
+**Transaction**: Handles individual transactions.\
+**BankAccount**: Base class for bank accounts.\
+**DepositAccount**: Derived class for deposit accounts.\
+**LoanAccount**: Derived class for loan accounts.\
 **Additional utility functions for account reading, sorting, updating, and displaying.**
 
 ## Requirements
 
-C++ Compiler (e.g., GCC, Clang)
-CMake (for build configuration)
+C++ Compiler (e.g., GCC, Clang)\
+CMake (for build configuration)\
 
 
 ## Building the Project
 
-git clone https://github.com/Ebuka01010/Bsim_pro (request access to clone and view code)
-cd untitled3
-mkdir build && cd build
-cmake ..
-make
-./untitled3
+git clone https://github.com/Ebuka01010/Bsim_pro (request access to clone and view code)\
+cd untitled3\
+mkdir build && cd build\
+cmake ..\
+make\
+./untitled3\
 
 
 ## Contributing
@@ -43,7 +43,7 @@ This project is currently not open for contributions, but feedback and suggestio
 ## Results
 
 #### Before
-./Results/before.png
+![Before](./Results/before.png)
 
 #### After
-./Results/Results.png
+![After](./Results/Results.png)
