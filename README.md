@@ -1,6 +1,6 @@
 ## Description
 
-This is a comprehensive account management system developed over a 1-month solo project using C++. This system is seamlessly integrated with pre-existing applications to enhance account management functionalities. It efficiently manages C++ structures and pointers, ensuring robust and safe code execution. Key features include read and sort account functionalities, and implementation of complex calculations tailored to meet specific project specifications. This project was completed successfully within the timeline, contributing significantly to the robustness of the banking application.
+ This is a solo C++ console application project, designed to simulate updating users Banking information. This system is seamlessly integrated with pre-existing functions to enhance account management functionalities. It efficiently manages C++ structures and pointers, ensuring robust and safe code execution. Key features include read and sort account functionalities, and implementation of complex calculations tailored to meet specific project specifications. This project was completed successfully within the timeline, contributing significantly to the robustness of the banking application.
 
 
 ## Features
